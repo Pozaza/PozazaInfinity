@@ -1,0 +1,32 @@
+{
+  "name": "PozazaPaint",
+  "version": "1.0.1",
+  "description": "ok",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Pozaza",
+  "license": "ISC",
+  "dependencies": {
+    "amethyste-api": "^1.1.5",
+    "bufferutil": "^4.0.3",
+    "canvacord": "^5.2.3",
+    "chalk": "^4.1.2",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "draftlog": "^1.0.13",
+    "erlpack": "^0.1.3",
+    "express": "^4.17.1",
+    "minimist": "^1.2.5",
+    "utf-8-validate": "^5.0.5",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.2.1"
+  }
+}
